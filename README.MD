@@ -21,5 +21,5 @@ The file SamplePipeline.ipynb contains a baseline pipeline for working with the 
 1. Check in your online github profile to see if the notebook is rendering the changes (or use nbviewer)
 
 
-### <font color='red'> Required improvments - 
+### <font color='red'> Required improvments - </font>
 1. Train and test split MUST be done BEFORE encoding and scaling
