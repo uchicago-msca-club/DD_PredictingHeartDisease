@@ -19,3 +19,7 @@ The file SamplePipeline.ipynb contains a baseline pipeline for working with the 
     <p>NOTE: The pairplot will take some time</p>
 1. <b>commit</b> the changes with a comment (mandatory) and <b>push</b> them into your personal repo
 1. Check in your online github profile to see if the notebook is rendering the changes (or use nbviewer)
+
+
+### <font color='red'> Required improvments - 
+1. Train and test split MUST be done BEFORE encoding and scaling
