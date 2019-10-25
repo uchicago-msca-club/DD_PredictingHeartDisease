@@ -22,4 +22,5 @@ The file SamplePipeline.ipynb contains a baseline pipeline for working with the 
 
 
 ### <font color='red'> Required improvments - </font>
+1. Code documentation in steps such as "Are there any missing data points?"
 1. Train and test split MUST be done BEFORE encoding and scaling
