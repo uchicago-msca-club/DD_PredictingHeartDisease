@@ -24,3 +24,18 @@ The file SamplePipeline.ipynb contains a baseline pipeline for working with the 
 ### <font color='red'> Required improvments - </font>
 1. Code documentation in steps such as "Are there any missing data points?"
 1. Train and test split MUST be done BEFORE encoding and scaling
+
+
+------------------
+
+# Merging changes from this repo to your forked repo
+
+This article is where I learnt it from : https://digitaldrummerj.me/git-sync-fork-to-master/
+
+In a nutshell, Open the terminal in your working folder (the folder where your forked repo is), then type
+
+1. git remote add upstream [original repo path].git
+1. git fetch upstream
+1. git merge upstream/master
+    - Resolve merge conflicts if any
+1. git push
